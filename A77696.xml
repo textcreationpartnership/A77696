@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the prosperous successe, and proceedings of the Parliaments forces in the counties of Somerset and Devon, against the malignants army in those parts: from the 19 of May to the 23. 1643. Sent in a letter from M. Tho. Browne, a gentleman in Cornwall, to a gentleman a friend of his in London.</title>
+            <author>Browne, Thomas, Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77696</idno>
+            <idno type="STC">Wing B5186</idno>
+            <idno type="STC">Thomason E104_11</idno>
+            <idno type="STC">ESTC R11390</idno>
+            <idno type="EEBO-CITATION">99859016</idno>
+            <idno type="PROQUEST">99859016</idno>
+            <idno type="VID">155931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155931)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the prosperous successe, and proceedings of the Parliaments forces in the counties of Somerset and Devon, against the malignants army in those parts: from the 19 of May to the 23. 1643. Sent in a letter from M. Tho. Browne, a gentleman in Cornwall, to a gentleman a friend of his in London.</title>
+                  <author>Browne, Thomas, Gentleman.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philip Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Devon (England) --  History, Military --  Early works to 1800.</term>
+               <term>Somerset (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155931:1"/>
+            <pb facs="tcp:155931:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF The proſperous ſucceſſe, and proceedings of the Parliaments Forces in the Counties of Somerſet and Devon, againſt the Malignants Army in thoſe parts:</p>
+            <p>
+               <hi>From the</hi> 19. <hi>of May to the</hi> 23. 1643.</p>
+            <p>Sent in a Letter from M. Tho. Browne, a Gentle<g ref="char:EOLhyphen"/>man in Cornwall, to a Gentleman a friend of his in LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Philip Smith.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155931:2"/>
+            <pb facs="tcp:155931:2"/>
+            <head>The Proceedings of the Parliaments For<g ref="char:EOLhyphen"/>ces in Somerſetſhire, Devonſhire, and Cornwall, from the <hi>19.</hi> of May to the <hi>23.</hi>
+            </head>
+            <p>SIR, I received your letter and the printed paper <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſent me of the proceedings of the Parliament, and other paſſages occurring at <hi>London,</hi> for which I re<g ref="char:EOLhyphen"/>turn you thanks, and in part of recompence of your fa<g ref="char:EOLhyphen"/>vour I ſent you the proceedings of both Armies in this part of the Kingdom, which you may report for certain to your friends, and cauſe thankfulneſſe to God by all perſons well-affected to the publike good, for our happy ſucceſſe againſt the Delinquents Army, not doubting but if it pleaſe God to proſper our ſucceeding endeavours as hitherto, a period of theſe Weſtern combuſtions will in ſhort time be happily obtained.</p>
+            <p>Friday Colonell <hi>Norcot</hi> in whoſe Regiment I ſerve, conſiſting of about 1200. horſe and foot, ſent about 500. horſe and foot towards <hi>Ruberdowne,</hi> there to be quarter<g ref="char:EOLhyphen"/>ed, to hinder the Corniſh Forces at <hi>Saltaſh</hi> under the con<g ref="char:EOLhyphen"/>duct of Sir <hi>Nicolas Slaning,</hi> who lieth there with about 1000. horſe and foot, Sir <hi>William Courtney</hi> being Gover<g ref="char:EOLhyphen"/>nour of the town, into <hi>Devonſhire,</hi> but the forces ſent thither by our Colonell being not ſufficient to oppoſe the Malignants in thoſe parts, he reſolved himſelfe with his whole Regiment to march thitherward, to give bat<g ref="char:EOLhyphen"/>tell to Sir <hi>Nicholas Slaning:</hi> during the conſideration of this matter, we were informed that our men had had
+<pb facs="tcp:155931:3"/>ſome bickering with ſome of the Delinquents that were ſcattered in the Countrey, plundering the ſame, and dri<g ref="char:EOLhyphen"/>ving away from divers villages about five or ſix miles from <hi>Saltaſh,</hi> many oxen and ſheep, which were reſcued by our men, and proved a good booty for them: about twenty of the malignants were ſlain, and the ringleader or chief of theſe robbers was taken, whoſe name was <hi>Bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght:</hi> we ſent him and 15. of his company priſoners to <hi>Plymouth,</hi> where they remain, the ſaid <hi>Blight</hi> being ſince offered to our Colonel in exchange for Sir <hi>Shilſton Cole<g ref="char:EOLhyphen"/>mandy</hi> a worthy Gentleman and Commander under Sir <hi>George Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dleigh,</hi> who was taken in the late fight at <hi>Lan<g ref="char:EOLhyphen"/>ceſton</hi> by the L. <hi>Hopton,</hi> but he would not be accepted, be<g ref="char:EOLhyphen"/>cauſe the ſaid <hi>Blight</hi> was the firſt that raiſed the rebelli<g ref="char:EOLhyphen"/>on in <hi>Corrwall</hi> by framing a ſeditious Petition to the King in behalfe of the Malignants there.</p>
+            <p>It being determined by our Colonel and the Captains and Officers under him for their march to <hi>Ruberdowne,</hi> we marehed away this evening towards <hi>Saltaſh,</hi> &amp; came within two miles thereof on Saturday about eight of the clock in the morning, where having ioyned our whole forces together, and ſet them in good order of battell, we were charged by the Corniſh men, and anſwered them a<g ref="char:EOLhyphen"/>gain with like courage, the forces on each ſide being e<g ref="char:EOLhyphen"/>qualized, and the fight continuing moſt part of the day with like advantage, but at laſt the enemies horſes being not well exerciſed, diſordered their own ranks, and bred much confuſion amongſt themſelves, which was great advantage to us, and cauſed a ſpeedy retreat, which we purſued with eagerneſſe, and did great execution upon our adverſaries, in this fight were ſlain of the Cornubi<g ref="char:EOLhyphen"/>ans about foure hundred men, whereof about twenty
+<pb facs="tcp:155931:3"/>were men of note and Officers, Sir <hi>Nicolas Slaning</hi> him<g ref="char:EOLhyphen"/>ſelfe is ſorely wounded, if not mortally, of them that were ſlain were Serjeant-Maior Deroy, Captain Eſcot, Captain Cook, Capt. Smallacomb, and the reſt inferiour Officers: ſeven Colours taken, and 500. arms, with good ſtore of powder: the reſt eſcaped to the town, againſt which we intend, God willing, to lay ſiege as ſoon as we have refreſhed our Army, we loſt not above 40. men, whereof none of note, we expect more aid and aſſiſtance from Colonell Chudleigh, whoſe forces are quartered a<g ref="char:EOLhyphen"/>bout Plymouth, Plimton, and Stoke, and then we doubt not but in ſhort time to regain that town to the obedi<g ref="char:EOLhyphen"/>ence of King and Parliament: many fall from the mali<g ref="char:EOLhyphen"/>gnant party, and ſome men of eminency and command in the Army are weary of the ſervice, and would faine ſhake of the imployment if they could with ſafety be ac<g ref="char:EOLhyphen"/>cepted by the Parliament, and though it were to the loſſe of moſt of their eſtates, being touched with remorſe of conſcience for their by paſt evill actions in defending ſo bad a cauſe.</p>
+            <p>The L. Mohun with his Regiment is quartered as yet at Liſcard, whitherward as we are informed, is marching Colonell Chudleigh with his forces, intending to give the ſaid Lord battell, his forces conſiſting of about 1000 horſe and foot at Liſcard, the L. Hopton being ioyned as is reported, with him, the whole ſtrength of the malig<g ref="char:EOLhyphen"/>nants Army in thoſe parts conſiſts not of above 6000. horſe and foot that receive pay, beſides ſuch of the coun<g ref="char:EOLhyphen"/>treys as have no fortunes or means of ſubſiſtance, that follow the camp, and live only upon robbery &amp; pillage, and what they cannot waſt themſelves, they bring to the common ſouldiers of the army.</p>
+            <pb facs="tcp:155931:4"/>
+            <p>This day was ſent to a town called <hi>Bridgerule,</hi> where Sir <hi>Francis Haley</hi> quartereth his Forces, Captain <hi>Tompſon</hi> with his Troupe, and a Foot-company of Captain <hi>Lut<g ref="char:EOLhyphen"/>trels</hi> to keep the Malignants within their bounds, that they may not go out to plunder and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illage, and to keep any proviſion from coming to them from the countrey-delinquents, there being many who privately have left their habitations, and joyned themſelves to the Hopto<g ref="char:EOLhyphen"/>nians, and there to remain till convenient forces may be joyned to them for ſubduing the town in obedience to the King and Parliament.</p>
+            <p>We have certain information of a great diviſion lately fallen out between the horſe and foot under command of Sir <hi>Bevill Greenvile,</hi> which cauſed much miſchief, many of them having ſlain each other in the quarrell, ſo that the ſaid Sir <hi>Bevill</hi> is in a ſtraight, and cannot ſafely truſt himſelf amongſt his own ſouldiers, by reaſon of their private jars and mutinies, and it is reported he is reſolved to leave his ſouldiers, and joyn himſelf to the L. <hi>Hopton,</hi> or privately go to the King; for certain there begins to be great contentions among moſt of the Malignants forces in theſe parts, which will prove of great advan<g ref="char:EOLhyphen"/>tage to the Parliaments forces, and cauſe quick diſpatch of the war here, which God grant.</p>
+            <p>Monday we received certain information that Colonel <hi>Chudleigh</hi> and his Forces have joyned battell with the Lord <hi>Mohun</hi> and his Forces neer Liſcard, and the ſame continued with great fury on either ſide about two hours, and then came in to aſſiſt the Malignants ſome of M. <hi>Trevanians</hi> Regiment which were quartered at <hi>Laun<g ref="char:EOLhyphen"/>ceſton,</hi> about 300 horſe and foot, and upon the information thereof we ſent two troopes of horſe and a Company of
+<pb facs="tcp:155931:4"/>foote to the Aſſiſtance of Colonell <hi>Chudleigh,</hi> upon the joyning of which Forces on either ſide the battell conti<g ref="char:EOLhyphen"/>nued with great courage and doubtfull ſucceſſe, the Ma<g ref="char:EOLhyphen"/>lignants having the advantage of ground very much, yet it pleaſed God, for whoſe cauſe we fight, to give a great overthrow to our enemy in the end and make us victors of the field: in this fight was ſlaine Captain <hi>Lambert</hi> and Captain <hi>Mannington,</hi> and about 14 inferiour Officers, of the common ſouldiers about 600. were wounded and ſlain, Serjeant-Maîor <hi>Parrey,</hi> Captain <hi>Glyn,</hi> and about eightſcore common ſoldiers were taken priſoners, which were committed to ſeverall goales in the County: The Lord <hi>Mohun</hi> and Sir <hi>Ralph Hopton</hi> retreated into the town for the ſafeguard of themſelves and the reſt of their ſouldiers. The Parliaments Eorces intend to beleagre that town, if convenient aſſiſtance of more men may in time be ſent them, before the Delinquents Army reco<g ref="char:EOLhyphen"/>ver their loſſe again: little ammunition was taken in this fight in reſpect it was ſo neer the town, only one culver<g ref="char:EOLhyphen"/>ing peece, and one Drake. Of our ſide not above 150. were ſlain and wounded in this fight, moſt of which were Troupers and common ſouldiers.</p>
+            <p>It was reported that proviſion of Ammunition was brought to <hi>Pendennis</hi> Caſtle from the iſland of <hi>Gerſey,</hi> for the aſſiſtance of the Corniſh Delinquents in thoſe parts, but ſince we have certain intelligence that the ſame was not landed, but intercepted by two ſhips that went out from <hi>Dartſmouth,</hi> and is now to be imployed for the uſe of King and Parliament, there was about 200 muskets and as many ſwords and pikes, two barrels of powder and twenty carbines, with ſome Piſtols, a reaſo<g ref="char:EOLhyphen"/>nable booty; for our forces and want ammunition: theſe
+<pb facs="tcp:155931:5"/>paſſages you may report for truth, and the next Poſt I ſhall ſend you the further proceedings at <hi>Saltaſh,</hi> and <hi>Liſ<g ref="char:EOLhyphen"/>card,</hi> they are the ſtrongeſt garronized of any townes in theſe parts by the Malignants, <hi>Exceter</hi> we heare is well fortified for the Parliament, and no probability of any attempts that will be made againſt it by the Delinquents Army; but we heare that many Carriers are intercepted, their carriages taken away by the Cavaliers that paſſe to and fro from the Counties both of <hi>Somerſet, Dorſet, Corn<g ref="char:EOLhyphen"/>wall</hi> to that City, which will we hope be ſuddainly remedied, and their free intercourſe ſecured. And thus kind Sir having nought elſe worth your obſervation to preſent you with at this time, I take my leave.</p>
+            <closer>
+               <dateline>
+                  <hi>Ruberdown</hi> 
+                  <date>
+                     <hi>May</hi> 22. 1643.</date>
+               </dateline>
+               <signed>Yours in mutuall and cordiall affection, <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
